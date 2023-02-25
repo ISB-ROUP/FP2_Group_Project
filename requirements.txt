@@ -1,6 +1,0 @@
-pandas
-numpy
-PIL
-seaborn
-statsmodels
-scikit-learn
