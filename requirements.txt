@@ -1,7 +1,0 @@
-seaborn
-statsmodels
-scikit-learn
-numpy
-pandas
-PIL
-matplotlib
