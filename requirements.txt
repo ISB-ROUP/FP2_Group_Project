@@ -1,0 +1,10 @@
+seaborn
+statsmodels
+scikit-learn
+numpy
+pandas
+matplotlib
+pillow
+requests
+io
+
