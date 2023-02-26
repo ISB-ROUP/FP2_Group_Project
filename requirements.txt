@@ -1,0 +1,7 @@
+streamlit
+PIL
+seaborn
+statsmodels
+scikit-learn
+numpy
+pandas
